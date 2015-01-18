@@ -10,5 +10,12 @@
     "sitepoint"
   ],
   "author": "orodio",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "compression": "^1.3.0",
+    "express": "^4.11.0",
+    "lodash": "^2.4.1",
+    "morgan": "^1.5.1"
+  }
 }
